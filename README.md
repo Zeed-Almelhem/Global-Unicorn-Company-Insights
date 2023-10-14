@@ -1,5 +1,6 @@
 # Global Unicorn Company Insights
 
+![image](https://github.com/Zeed-Almelhem/Global-Unicorn-Company-Insights/assets/142832914/72d8efed-8c7a-48c8-aafb-f619c2a0944f)
 
 
 ![image](https://github.com/Zeed-Almelhem/Global-Unicorn-Company-Insights/assets/142832914/021566b1-d149-4b7c-9540-78f8f64b3cff)
